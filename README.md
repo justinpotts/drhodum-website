@@ -9,6 +9,10 @@ I redesigned Dr. Hodum's old site to make it more streamlined, cleaner,
 and more modern. Please feel free to email me with any feedback or 
 comments. 
 
+View the redesigned site here:
+
+https://justinpotts.github.io/drhodum-website
+
 Setup
 -----
 To set up these files locally, either clone the source through git, or
